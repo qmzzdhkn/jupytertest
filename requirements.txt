@@ -1,0 +1,9 @@
+seaborn
+numpy
+pandas
+matplotlib
+qgrid
+ipywidgets
+ipysheet
+bqplot
+plotly
