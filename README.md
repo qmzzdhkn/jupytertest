@@ -1,2 +1,2 @@
 # jupytertest
-for the team to test jupyter notebook
+for the team to test jupyter notebook created locally
